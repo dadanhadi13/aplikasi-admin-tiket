@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "databasetiketsaya",
+  "private_key_id": "b1472ad44ef067ef1118afda0cc57097d3ca449a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCJ1yVFSRbyfBFh\nTzHQWn49kr3Bn5ziXh2XlbNAP8imbjnJCFZnB/a3GVUz6kxTjVJk86HGRd8y0jBS\n3C2/AOD56tckAHU8V3aO0UWoQXmZDATfHVevT3QRNxPvDGmKq7EYarvYl39V3iO6\nG/XP3U17WWQIhz/q2LnMpmJkiaAToUXf1e5u+IqtMcLY4OmQ/McD2ZIJ7sZAQfJU\nYvygcOFFvGBU9Ou0aABvJBtRoJ7/NP9Axoem3VXpiwHCWnCsDIMZ8vsO84VVTFwl\nHYvcRPxzIkH962Zv5eQDr5dm8tIgrSxynZGbQgV2deaG0YGqqgfv3tIwq2mzjMhQ\nLE7ywQgXAgMBAAECggEAH4x2o10PO4DaGYOeyylrK3yioeZ+afFQpJlG5bWznyQr\nZa/a1soj1dSeg7tkrNrzuNdqd48WfvNMzCpI7iatV4ZAp6TTMHR0VkvfvZr+0eDG\nXKrCnwV4c1g/377fiTWy2vvS8sf6BRVK6BXuNR1Z1pmnI6yRHJduL0EF1C0LznIN\nGRaCBWE6PIjuU5qDc2rtCywuA9VrVunf/2F3O7uaLKTDC3NYpsRZiACeunFNDLOY\n/fpBgGsIHAEjcpZRwjqecUZlj5ab0a6CyYFE8AwbNwzhtwqVfDp+LTz644L8Sr8m\neCGX6hMQoVBenu3zDJWTF+6JW3+3Nf76/VBtN2EXQQKBgQDCjazI2WH4Y9pSV0vG\nFHBKiAR8857gxoas/9eX1kXvwHlRQfkv69w8rL8zO5frnxbo5havxdzlFI7b3/6i\ngx8Z/MV9OIZHIIKwDzbjSDm9ZgjkryA7TdYeB7Bxdwda7Ac67tRmHjCsEbGzljm4\n0neDPh5o9eIrOYapjIwfPzBUfQKBgQC1YAaNAp9z4LP10mVeOy1QjWydNe3hK0W7\n9M9GQQo2DlwMv9yroun3tEtlgggG1Nes7HL1UxDzyKz3zxPHL/PQ8wr37suHhQeV\nAtqIm2YfL14HFprlHJnEfLGYV/6VaxD2/Qa+4cdNTc/OMK+B8MM/yZ37jwJEy9aW\n+gtSYltXIwKBgQCohxT/Pt8QzV5XKWtoAFhtF3nbyyT7TL1oqo5U5rXaQv5UFzQG\nAOfcXz+Y36xv3HV59aX9SQZaIf7GFDh9CdwtJLrmB8q5Xj4WyHchVnU9zV8yyUjA\nVmJ9zOdYwmTKq95vfGbctpYu13z5Nc52fUotk+e/wA7UppYx1J+kiZYR+QKBgBbo\nIsuqWiMTbQcN5HmLNcTnp6EPT5TRl0QOviLcUgLTu3JsxNz0fWIoZiFS09qxBPA1\nCKvNKuXvIVFG2POeLcfk+iyn/xKFjZiXPKxmG/ayT8jLZRKskwsKyI86BdAvLnxT\nJofzEe3EdwtOgMwDcVVcDFTaEepIaDi3Kbjk7S5LAoGBAI0ZNvKiDOOIaUkxm2rR\ny5VSA1/5vr4gML8zq4s11GTTrbAvZrFKWDvYb35F5bmDtETY1yInz1bnHUkYimLJ\n2tnjxv3rNZ4hgMWbO1JX7F/LbnHpo7uH3sQCF0tz9sXZXhJRZM8K3HzBBDyX4nXb\nbNerFsewlMm4QaCdwaG3t+Y6\n-----END PRIVATE KEY-----\n",
+  "client_email": "databasetiketsaya@databasetiketsaya.iam.gserviceaccount.com",
+  "client_id": "104185960937745403806",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/databasetiketsaya%40databasetiketsaya.iam.gserviceaccount.com"
+}

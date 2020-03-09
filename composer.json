@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kreait/firebase-php": "4.35",
+        "google/cloud-storage": "^1.18"
+    }
+}
